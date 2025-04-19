@@ -31,7 +31,7 @@ Originally designed to streamline the creation of curved nanostructures in compu
 
 ### Option 1: Download Executable
 
-Download [`EasyCurling.exe`](#) and run it directly or through a `.bat` script.
+Download [`EasyCurling.exe`](#https://github.com/imasenHF/EasyCurling/releases/download/v1.0.0/EasyCurling.7z) and run it directly or through a `.bat` script.
 
 > No Python installation required!
 
