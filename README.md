@@ -38,7 +38,7 @@ Download [`EasyCurling.exe`](#) and run it directly or through a `.bat` script.
 ### Option 2: Run from Python
 
 ```bash
-git clone https://github.com/your-username/EasyCurling.git
+git clone https://github.com/imasen HF/EasyCurling.git
 cd EasyCurling
 pip install -r requirements.txt
 python easycurling.py
