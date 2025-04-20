@@ -29,16 +29,7 @@ Originally designed to streamline the creation of curved nanostructures in compu
 
 ## 📦 Installation
 
-### Option 1: Download Executable
-
 Download [`EasyCurling.exe`](#https://github.com/imasenHF/EasyCurling/releases/download/v1.0.0/EasyCurling.7z) and run it directly or through a `.bat` script.
 
 > No Python installation required!
 
-### Option 2: Run from Python
-
-```bash
-git clone https://github.com/imasen HF/EasyCurling.git
-cd EasyCurling
-pip install -r requirements.txt
-python easycurling.py
