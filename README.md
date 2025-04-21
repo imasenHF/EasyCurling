@@ -3,8 +3,8 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)  
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)  
-![Python](https://img.shields.io/badge/python-3.8+-yellow)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/python-3.8+-yellow) 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 
 ![banner](https://github.com/user-attachments/assets/6d5e984d-cb9e-4aeb-9b13-4843412d28c3)
 
