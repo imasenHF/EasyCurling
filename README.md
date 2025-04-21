@@ -15,8 +15,6 @@
 
 Originally designed to streamline the creation of curved nanostructures in computational chemistry projects, EasyCurling is now packaged as a lightweight `.exe` with interactive input and flexible customization.
 
----
-
 >  Usage instructions and examples (in Chinese): http://bbs.keinsci.com/thread-53009-1-1.html
 
 ---
