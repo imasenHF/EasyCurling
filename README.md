@@ -39,6 +39,7 @@ Originally designed to streamline the creation of curved nanostructures in compu
 git clone https://github.com/imasenHF/EasyCurling.git
 cd EasyCurling
 python easycurling.py
+```
 
 ---
 
