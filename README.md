@@ -17,13 +17,13 @@ Originally designed to streamline the creation of curved nanostructures in compu
 
 ## ✨ Features
 
-- ✅ **Supports both rigid and flexible curling**  
-- ✅ **Handles repeated units with optional deletion of duplicate atoms**
-- ✅ **Command-line interface with user-friendly prompts**
-- ✅ **Iterative mode**: Easily try different repeat numbers without restarting
-- ✅ **Works on molecular or crystal structures (`.xyz`)**
-- ✅ **Outputs standard `.xyz` files** ready for visualization or further modeling
-- ✅ **No Python environment required** (for `.exe` users)
+- **Supports both rigid and flexible curling**  
+- **Handles repeated units with optional deletion of duplicate atoms**
+- **Command-line interface with user-friendly prompts**
+- **Iterative mode**: Easily try different repeat numbers without restarting
+- **Works on molecular or crystal structures (`.xyz`)**
+- **Outputs standard `.xyz` files** ready for visualization or further modeling
+- **No Python environment required** (for `.exe` users)
 
 ---
 
