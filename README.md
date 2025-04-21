@@ -5,6 +5,8 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)  
 ![Python](https://img.shields.io/badge/python-3.8+-yellow)
 
+![banner](https://github.com/user-attachments/assets/6d5e984d-cb9e-4aeb-9b13-4843412d28c3)
+
 ---
 
 ## 🧬 Overview
