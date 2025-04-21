@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)  
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)  
 ![Python](https://img.shields.io/badge/python-3.8+-yellow)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ![banner](https://github.com/user-attachments/assets/6d5e984d-cb9e-4aeb-9b13-4843412d28c3)
 
@@ -14,6 +15,10 @@
 **EasyCurling** is a standalone tool that helps chemists and materials scientists **replicate and spatially curl structures**, including molecular fragments or crystal cells, into ring-like or tubular configurations. It supports both **rigid transformations** and **flexible (progressive) curling**, allowing for easy modeling of **nanorings, nanotubes, or supramolecular macrocycles**.
 
 Originally designed to streamline the creation of curved nanostructures in computational chemistry projects, EasyCurling is now packaged as a lightweight `.exe` with interactive input and flexible customization.
+
+---
+
+>  Usage instructions and examples (in Chinese): http://bbs.keinsci.com/thread-53009-1-1.html
 
 ---
 
@@ -45,4 +50,13 @@ python easycurling.py
 
 ---
 
->  Usage instructions and examples (in Chinese): http://bbs.keinsci.com/thread-53009-1-1.html
+## Tags
+
+`molecular-modeling` `nanorings` `nanotubes` `geometry-transformation` `supramolecular` `computational-chemistry`
+
+---
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).  
+You are free to use, modify, and distribute this software with proper attribution.
